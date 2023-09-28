@@ -1,0 +1,14 @@
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.AssemblyInfoInputs.cache
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.AssemblyInfo.cs
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.csproj.CoreCompileInputs.cache
+D:\.net\adv C#\#c8\App#8\bin\Debug\net7.0\App#8.exe
+D:\.net\adv C#\#c8\App#8\bin\Debug\net7.0\App#8.deps.json
+D:\.net\adv C#\#c8\App#8\bin\Debug\net7.0\App#8.runtimeconfig.json
+D:\.net\adv C#\#c8\App#8\bin\Debug\net7.0\App#8.dll
+D:\.net\adv C#\#c8\App#8\bin\Debug\net7.0\App#8.pdb
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.dll
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\refint\App#8.dll
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.pdb
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\App#8.genruntimeconfig.cache
+D:\.net\adv C#\#c8\App#8\obj\Debug\net7.0\ref\App#8.dll
